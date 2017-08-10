@@ -1,4 +1,4 @@
-class SourceProviderController < JSONAPI::ResourceController
+class SourceProvidersController < JSONAPI::ResourceController
 =begin
   before_action :set_test, only: [:show]
 
