@@ -4,6 +4,4 @@ class CourseResult < ApplicationRecord
     sprintf('%.2f', self.eur)
     sprintf('%.2f', self.rur)
   end
-
-
 end
